@@ -1,0 +1,6 @@
+{
+  "name": "Arrow Puzzle Game & AdMob Guide",
+  "description": "PlayArrow Puzzle, get game source code link, and learn how to integrate Google AdMob Rewarded and Interstitial ads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
